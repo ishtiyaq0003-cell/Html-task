@@ -1,0 +1,8 @@
+h2{color: blueviolet;}
+/* acces id with # symbol */
+#fh3{color: green;margin-top: 20px;}
+/* access class with period symbol(.) */
+.highlight{background-color: tomato;}
+body{
+    margin: 8;
+}
